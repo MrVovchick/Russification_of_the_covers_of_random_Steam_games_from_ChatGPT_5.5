@@ -1,18 +1,25 @@
 # 🎲 Русские обложки для рандомных игр Steam от ИИ.
 
-# Переведённые (30)
+# Переведённые (38)
 - Aperture Desk Job
 - Arcade Full of Cats
 - Backrooms Escape Together
+- Black Mesa
 - Clustertruck
 - Cuphead
 - Cut the rope
+- Dark Pals: The 1st Floor
 - Dreamcore
 - Earn to Die 2
+- Finding Frankie
+- Flower
 - FNAF 1
 - Garten Of Banban 0-8
 - Geometry Dash
+- Half-life 2
+- Half-life: Alyx
 - Iron Meat
+- KinitoPET
 - Leo's Fortune
 - Level Devil
 - Liminalcore
@@ -29,6 +36,7 @@
 - Subliminal
 - Super Meat Boy
 - The Bug Butcher
+- Toilet Chronicles
 - Traffix
 - Zombotron
 
